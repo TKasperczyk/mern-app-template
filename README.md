@@ -1,6 +1,9 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/47663eb5b6024a9e9a29d80a4eb5b28f)](https://www.codacy.com/manual/Sarithis/mern-app-template?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=TKasperczyk/mern-app-template&amp;utm_campaign=Badge_Grade)
-
 # MERN template for creating web applications
+
+###Backend
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d1b1e2a8fec645d28b80009b980f7eac)](https://www.codacy.com/manual/Sarithis/mern-app-template-backend?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=TKasperczyk/mern-app-template-backend&amp;utm_campaign=Badge_Grade)
+
+###Frontend
 
 ## Overview
 This project is a boilerplate for sessionless web applications. It offers a set of modules and components that can be used for further development. It utilises the following technologies:
