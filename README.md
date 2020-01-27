@@ -6,8 +6,8 @@
 [![Build Status](https://travis-ci.com/TKasperczyk/mern-app-template-backend.svg?branch=master)](https://travis-ci.com/TKasperczyk/mern-app-template-backend)
 [![Coverage Status](https://coveralls.io/repos/github/TKasperczyk/mern-app-template-backend/badge.svg?branch=master)](https://coveralls.io/github/TKasperczyk/mern-app-template-backend?branch=master)
 [![Greenkeeper badge](https://badges.greenkeeper.io/TKasperczyk/mern-app-template-backend.svg)](https://greenkeeper.io/)
-[![Known Vulnerabilities](https://snyk.io/test/github/TKasperczyk/mern-app-template-backend/badge.svg)](https://snyk.io/test/github/TKasperczyk/mern-app-template-backend)
 [![License](https://img.shields.io/github/license/TKasperczyk/mern-app-template-backend)](https://github.com/TKasperczyk/mern-app-template-backend/blob/master/LICENSE)
+[![Known Vulnerabilities](https://snyk.io/test/github/TKasperczyk/mern-app-template-backend/badge.svg)](https://snyk.io/test/github/TKasperczyk/mern-app-template-backend)
 
 
 ### Frontend
@@ -155,11 +155,11 @@ Every route is defined in this module. New routes should be added to `module.exp
         ){
             return handleError(req, res, 'You don\'t have sufficient permissions to perform this action');
         }
-        //The args parameter is destructured and passed to api.user.update 
+        //The args parameter is destructured and passed to api.controllers['data.user'].update 
         performApiCall({
             req, 
             res, 
-            apiFunc: api.user.update, 
+            apiFunc: api.controllers['data.user'].update, 
             args: { id: req.params.id, user: req.body.user }
         });
     },
