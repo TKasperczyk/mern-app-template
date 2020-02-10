@@ -38,7 +38,7 @@ It uses `config/acl.json` to optionally protect backend routes. It's already hoo
 ### api
 This module is a collection of functions that allow for modifying database objects and performing other API tasks. It utilises a set of generic functions that can be used for CRUD operations without code repetition. The module can be included anywhere in the application's backend. 
 ### auth
-The auth module is responsible for registering Passport strategies, securing Socket.io connections and processing incoming requests. It allows for user registration, signing in by using standard credentials (login and password) and JWT tokens.
+The auth module is responsible for registering Passport strategies, securing Socket.io connections and processing incoming requests. It allows for user registration, signing in by using standard credentials (username and password) and JWT tokens.
 ### config
 Imports the configuration from `config/config.json`. Allows for reloading the config without restarting the application by adding the `_reload` method to its export values. 
 ### db
