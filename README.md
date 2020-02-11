@@ -12,6 +12,13 @@
 
 ### Frontend
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/68064aaad8de4ec18eb0965a7cb74f26)](https://www.codacy.com/manual/Sarithis/mern-app-template-frontend?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=TKasperczyk/mern-app-template-frontend&amp;utm_campaign=Badge_Grade)
+[![Build Status](https://travis-ci.com/TKasperczyk/mern-app-template-frontend.svg?branch=master)](https://travis-ci.com/TKasperczyk/mern-app-template-frontend)
+[![Coverage Status](https://coveralls.io/repos/github/TKasperczyk/mern-app-template-frontend/badge.svg?branch=master)](https://coveralls.io/github/TKasperczyk/mern-app-template-frontend?branch=master)
+[![Greenkeeper badge](https://badges.greenkeeper.io/TKasperczyk/mern-app-template-frontend.svg)](https://greenkeeper.io/)
+[![License](https://img.shields.io/github/license/TKasperczyk/mern-app-template-frontend)](https://github.com/TKasperczyk/mern-app-template-frontend/blob/master/LICENSE)
+[![Known Vulnerabilities](https://snyk.io/test/github/TKasperczyk/mern-app-template-frontend/badge.svg)](https://snyk.io/test/github/TKasperczyk/mern-app-template-frontend)
+
 ## Overview
 This project is a boilerplate for sessionless web applications. It offers a set of modules and components that can be used for further development. It utilises the following technologies:
 - [Redux](https://redux.js.org/)
