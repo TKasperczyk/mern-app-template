@@ -5,12 +5,12 @@
 ------------
 
 <h2 align="center" style="border: 0; padding: 0; margin: 0; margin-top: -55px;">
-    <a href="https://github.com/TKasperczyk/mern-app-template-backend">Backend</a>
+    <a href="https://github.com/TKasperczyk/mern-app-template-backend" target="_blank">Backend</a>
 </h2>
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d1b1e2a8fec645d28b80009b980f7eac)](https://www.codacy.com/manual/Sarithis/mern-app-template-backend?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=TKasperczyk/mern-app-template-backend&amp;utm_campaign=Badge_Grade) [![Build Status](https://travis-ci.com/TKasperczyk/mern-app-template-backend.svg?branch=master)](https://travis-ci.com/TKasperczyk/mern-app-template-backend) [![Coverage Status](https://coveralls.io/repos/github/TKasperczyk/mern-app-template-backend/badge.svg?branch=master)](https://coveralls.io/github/TKasperczyk/mern-app-template-backend?branch=master) [![Greenkeeper badge](https://badges.greenkeeper.io/TKasperczyk/mern-app-template-backend.svg)](https://greenkeeper.io/) [![License](https://img.shields.io/github/license/TKasperczyk/mern-app-template-backend)](https://github.com/TKasperczyk/mern-app-template-backend/blob/master/LICENSE) [![Known Vulnerabilities](https://snyk.io/test/github/TKasperczyk/mern-app-template-backend/badge.svg)](https://snyk.io/test/github/TKasperczyk/mern-app-template-backend)
 <h2 align="center" style="border: 0; padding: 0; margin: 0;">
-    <a href="https://github.com/TKasperczyk/mern-app-template-frontend">Frontend</a>
+    <a href="https://github.com/TKasperczyk/mern-app-template-frontend" target="_blank">Frontend</a>
 </h2>
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/68064aaad8de4ec18eb0965a7cb74f26)](https://www.codacy.com/manual/Sarithis/mern-app-template-frontend?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=TKasperczyk/mern-app-template-frontend&amp;utm_campaign=Badge_Grade) [![Build Status](https://travis-ci.com/TKasperczyk/mern-app-template-frontend.svg?branch=master)](https://travis-ci.com/TKasperczyk/mern-app-template-frontend) [![Coverage Status](https://coveralls.io/repos/github/TKasperczyk/mern-app-template-frontend/badge.svg?branch=master)](https://coveralls.io/github/TKasperczyk/mern-app-template-frontend?branch=master) [![Greenkeeper badge](https://badges.greenkeeper.io/TKasperczyk/mern-app-template-frontend.svg)](https://greenkeeper.io/) [![License](https://img.shields.io/github/license/TKasperczyk/mern-app-template-frontend)](https://github.com/TKasperczyk/mern-app-template-frontend/blob/master/LICENSE) [![Known Vulnerabilities](https://snyk.io/test/github/TKasperczyk/mern-app-template-frontend/badge.svg)](https://snyk.io/test/github/TKasperczyk/mern-app-template-frontend)
