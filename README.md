@@ -135,7 +135,7 @@ This should be used to synchronize Socket.io rooms between threads. To achieve t
 ```javascript
 const manager = new RoomManager(1); //"1" is the redis database identifier
 manager.init().then(() => {
-    //Everything related to socket.io should be done after the initializing the manager
+    //Everything related to socket.io should be done after initializing the manager
     io.of('/someNamespace').on('connection', (socket) => {
 		//Joining the room in socket.io
         io.of('/someNamespace').adapter.remoteJoin(socket.id, 'roomName', async (error) => {
